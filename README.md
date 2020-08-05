@@ -1,3 +1,6 @@
+This project is cloned from https://github.com/cloudowski/jenkins-openshift-pipeline.git
+
+
 # Jenkins on OpenShift
 
 This repo contains resources used to build a pipeline for building new Jenkins
